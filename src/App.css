@@ -1,0 +1,17 @@
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+thead{
+  text-align: center;
+}
+tbody{
+  text-align: center;
+}
+
+td{
+  padding: 20px!important;
+}
